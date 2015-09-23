@@ -1,0 +1,23 @@
+{
+    "name": "goodspb/laravel5-ucpaas",
+    "description": "Ucpaas SMS Client Provider For Laravel5 ",
+    "authors": [
+        {
+            "name": "goodspb",
+            "email": "goodspbluo@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Goodspb\\Laravel5Ucpaas\\": "src/"
+        }
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0"
+        }
+    }
+}
